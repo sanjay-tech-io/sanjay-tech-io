@@ -66,20 +66,7 @@
 ## ⟡ GITHUB ANALYTICS
 
 <div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=sanjay-tech-io&show_icons=true&hide_border=true&bg_color=060610&title_color=7ee7ff&text_color=e8c8ff&icon_color=ff88cc&ring_color=7828ff&border_radius=16&include_all_commits=true&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjay-tech-io&layout=compact&hide_border=true&bg_color=060610&title_color=7ee7ff&text_color=e8c8ff&border_radius=16&langs_count=8" />
-
-<img width="100%" src="https://streak-stats.demolab.com/?user=sanjay-tech-io&hide_border=true&background=060610&ring=7828ff&fire=ff88cc&currStreakNum=ffffff&currStreakLabel=7ee7ff&sideNums=ffffff&sideLabels=e8c8ff&dates=8c8cb4&border_radius=16" />
-
-</div>
-
-<div align="center"><img src="assets/divider.svg" width="100%"/></div>
-
-## ⟡ ACTIVITY PULSE
-
-<div align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sanjay-tech-io&bg_color=060610&color=7ee7ff&line=a078ff&point=ff88cc&area=true&area_color=7828ff&hide_border=true&title_color=e8c8ff&radius=16" />
+<img src="assets/stats.svg" width="100%"/>
 </div>
 
 <br/>
